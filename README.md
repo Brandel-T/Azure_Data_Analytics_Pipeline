@@ -1,8 +1,8 @@
-# Azure Data Pipeline
+# Azure Data Analytics Class - Data Engineering project on Azure using the medaillon architecture
 
-This project is an example of a simple Azure Data Pipeline.
+This project is an example of a Azure Data Pipeline involving multiples data source and azure services such as `Azure Synapse`, `Azure Data Factory`, and `Azure Key Vault`.
 
-It uses Los Angeles crime data and weather data from the OpenWeather API
+It uses **Los Angeles crime data** and **weather data** from the OpenWeather API
 
 ## Datasets
 
@@ -20,6 +20,9 @@ Raw data gets loaded into the bronze layer. After that, gets transformed and mov
 Secrets are handled with Azure Key Vault
 
 ![image](https://github.com/user-attachments/assets/46794a1d-f7b6-4dd1-b141-ae57290172ba)
+
+## PS
+This is a class project. I worked together with 3 of my classmateds
 
 
 
