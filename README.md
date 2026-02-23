@@ -1,4 +1,4 @@
-# Azure Data Analytics Class - Data Engineering project on Azure using the medaillon architecture
+# Azure Data Analytics Class Project - Data Engineering project on Azure using the medaillon architecture
 
 This project is an example of a Azure Data Pipeline involving multiples data source and azure services such as `Azure Synapse`, `Azure Data Factory`, and `Azure Key Vault`.
 
